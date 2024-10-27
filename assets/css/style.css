@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(to right top, #142237, #154e6d, #0080a0, #00b6c9, #08eee4);
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#Nombreescuela {
+    margin-top: 10%;
+    color: white;
+}
+
+main {
+    margin: 8%;
+    background-color: rgb(255, 255, 255);
+    margin-top: 3%;
+}
+#color{
+    color: black;
+}
+
+#caja {
+    display: grid;
+    place-items: center;
+ margin: auto;
+}
+p{
+    color: black;
+    
+}
+
+#logoprincipal {
+    width: 10%;
+    height: 10%;
+    background-color: aliceblue;
+    border-radius: 100%;
+}
